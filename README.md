@@ -8,7 +8,7 @@ The code has been developed on [Kaggle](https://www.kaggle.com/) Notebooks in Py
 ## Libraries Used
 * NumPy
 * pandas
-### Deep learning:
+#### Deep learning:
 * PyTorch
 ### Collecting results:
 * math
