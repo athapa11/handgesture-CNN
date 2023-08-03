@@ -6,15 +6,15 @@ This repository contains code for the development of various Convolutional Neura
 The code has been developed on [Kaggle](https://www.kaggle.com/) Notebooks in Python as a Jupyter Notebook. The dataset used to conduct this research can be found [here](https://www.kaggle.com/datasets/roobansappani/hand-gesture-recognition).
 
 ## Libraries Used
-* numpy
+* NumPy
 * pandas
 ### Deep learning:
-* torch
+* PyTorch
 ### Collecting results:
 * math
-* matplotlib
+* Matplotlib
 * seaborn
-* sklearn
+* scikit-learn
 ### Image processing:
 * OpenCV
 * Pillow
